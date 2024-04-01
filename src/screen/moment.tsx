@@ -46,7 +46,7 @@ const ExampleMutationComponent = () => {
   ];
 
   const newData2: any = [
-    {id: 1, name: 'What the hell is going on'},
+    {id: 1, name: 'What is going on'},
     {id: 2, name: 'wherew is john 1'},
     {id: 3, name: 'whey protein'},
     {id: 4, name: 'john wick 5'},
